@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\OLLAMS PICTURES\\desktop\\MyCsharpProjects\\PracticeW3\\PracticeW3.csproj": {}
+    "/home/awwal/Documents/Practicew3/PracticeW3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OLLAMS PICTURES\\desktop\\MyCsharpProjects\\PracticeW3\\PracticeW3.csproj": {
+    "/home/awwal/Documents/Practicew3/PracticeW3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OLLAMS PICTURES\\desktop\\MyCsharpProjects\\PracticeW3\\PracticeW3.csproj",
+        "projectUniqueName": "/home/awwal/Documents/Practicew3/PracticeW3.csproj",
         "projectName": "PracticeW3",
-        "projectPath": "C:\\Users\\OLLAMS PICTURES\\desktop\\MyCsharpProjects\\PracticeW3\\PracticeW3.csproj",
-        "packagesPath": "C:\\Users\\OLLAMS PICTURES\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\OLLAMS PICTURES\\desktop\\MyCsharpProjects\\PracticeW3\\obj\\",
+        "projectPath": "/home/awwal/Documents/Practicew3/PracticeW3.csproj",
+        "packagesPath": "/home/awwal/.nuget/packages/",
+        "outputPath": "/home/awwal/Documents/Practicew3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\OLLAMS PICTURES\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/awwal/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
         }
       }
     }
