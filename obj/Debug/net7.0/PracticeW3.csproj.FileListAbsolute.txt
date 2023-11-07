@@ -1,14 +1,28 @@
-C:\Users\OLLAMS PICTURES\desktop\MyCsharpProjects\PracticeW3\bin\Debug\net7.0\PracticeW3.exe
-C:\Users\OLLAMS PICTURES\desktop\MyCsharpProjects\PracticeW3\bin\Debug\net7.0\PracticeW3.deps.json
-C:\Users\OLLAMS PICTURES\desktop\MyCsharpProjects\PracticeW3\bin\Debug\net7.0\PracticeW3.runtimeconfig.json
-C:\Users\OLLAMS PICTURES\desktop\MyCsharpProjects\PracticeW3\bin\Debug\net7.0\PracticeW3.dll
-C:\Users\OLLAMS PICTURES\desktop\MyCsharpProjects\PracticeW3\bin\Debug\net7.0\PracticeW3.pdb
-C:\Users\OLLAMS PICTURES\desktop\MyCsharpProjects\PracticeW3\obj\Debug\net7.0\PracticeW3.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\OLLAMS PICTURES\desktop\MyCsharpProjects\PracticeW3\obj\Debug\net7.0\PracticeW3.AssemblyInfoInputs.cache
-C:\Users\OLLAMS PICTURES\desktop\MyCsharpProjects\PracticeW3\obj\Debug\net7.0\PracticeW3.AssemblyInfo.cs
-C:\Users\OLLAMS PICTURES\desktop\MyCsharpProjects\PracticeW3\obj\Debug\net7.0\PracticeW3.csproj.CoreCompileInputs.cache
-C:\Users\OLLAMS PICTURES\desktop\MyCsharpProjects\PracticeW3\obj\Debug\net7.0\PracticeW3.dll
-C:\Users\OLLAMS PICTURES\desktop\MyCsharpProjects\PracticeW3\obj\Debug\net7.0\refint\PracticeW3.dll
-C:\Users\OLLAMS PICTURES\desktop\MyCsharpProjects\PracticeW3\obj\Debug\net7.0\PracticeW3.pdb
-C:\Users\OLLAMS PICTURES\desktop\MyCsharpProjects\PracticeW3\obj\Debug\net7.0\PracticeW3.genruntimeconfig.cache
-C:\Users\OLLAMS PICTURES\desktop\MyCsharpProjects\PracticeW3\obj\Debug\net7.0\ref\PracticeW3.dll
+C:/Users/OLLAMS PICTURES/desktop/MyCsharpProjects/PracticeW3/bin/Debug/net7.0/PracticeW3.exe
+C:/Users/OLLAMS PICTURES/desktop/MyCsharpProjects/PracticeW3/bin/Debug/net7.0/PracticeW3.deps.json
+C:/Users/OLLAMS PICTURES/desktop/MyCsharpProjects/PracticeW3/bin/Debug/net7.0/PracticeW3.runtimeconfig.json
+C:/Users/OLLAMS PICTURES/desktop/MyCsharpProjects/PracticeW3/bin/Debug/net7.0/PracticeW3.dll
+C:/Users/OLLAMS PICTURES/desktop/MyCsharpProjects/PracticeW3/bin/Debug/net7.0/PracticeW3.pdb
+C:/Users/OLLAMS PICTURES/desktop/MyCsharpProjects/PracticeW3/obj/Debug/net7.0/PracticeW3.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/OLLAMS PICTURES/desktop/MyCsharpProjects/PracticeW3/obj/Debug/net7.0/PracticeW3.AssemblyInfoInputs.cache
+C:/Users/OLLAMS PICTURES/desktop/MyCsharpProjects/PracticeW3/obj/Debug/net7.0/PracticeW3.AssemblyInfo.cs
+C:/Users/OLLAMS PICTURES/desktop/MyCsharpProjects/PracticeW3/obj/Debug/net7.0/PracticeW3.csproj.CoreCompileInputs.cache
+C:/Users/OLLAMS PICTURES/desktop/MyCsharpProjects/PracticeW3/obj/Debug/net7.0/PracticeW3.dll
+C:/Users/OLLAMS PICTURES/desktop/MyCsharpProjects/PracticeW3/obj/Debug/net7.0/refint/PracticeW3.dll
+C:/Users/OLLAMS PICTURES/desktop/MyCsharpProjects/PracticeW3/obj/Debug/net7.0/PracticeW3.pdb
+C:/Users/OLLAMS PICTURES/desktop/MyCsharpProjects/PracticeW3/obj/Debug/net7.0/PracticeW3.genruntimeconfig.cache
+C:/Users/OLLAMS PICTURES/desktop/MyCsharpProjects/PracticeW3/obj/Debug/net7.0/ref/PracticeW3.dll
+/home/awwal/Documents/Practicew3/bin/Debug/net7.0/PracticeW3
+/home/awwal/Documents/Practicew3/bin/Debug/net7.0/PracticeW3.deps.json
+/home/awwal/Documents/Practicew3/bin/Debug/net7.0/PracticeW3.runtimeconfig.json
+/home/awwal/Documents/Practicew3/bin/Debug/net7.0/PracticeW3.dll
+/home/awwal/Documents/Practicew3/bin/Debug/net7.0/PracticeW3.pdb
+/home/awwal/Documents/Practicew3/obj/Debug/net7.0/PracticeW3.GeneratedMSBuildEditorConfig.editorconfig
+/home/awwal/Documents/Practicew3/obj/Debug/net7.0/PracticeW3.AssemblyInfoInputs.cache
+/home/awwal/Documents/Practicew3/obj/Debug/net7.0/PracticeW3.AssemblyInfo.cs
+/home/awwal/Documents/Practicew3/obj/Debug/net7.0/PracticeW3.csproj.CoreCompileInputs.cache
+/home/awwal/Documents/Practicew3/obj/Debug/net7.0/PracticeW3.dll
+/home/awwal/Documents/Practicew3/obj/Debug/net7.0/refint/PracticeW3.dll
+/home/awwal/Documents/Practicew3/obj/Debug/net7.0/PracticeW3.pdb
+/home/awwal/Documents/Practicew3/obj/Debug/net7.0/PracticeW3.genruntimeconfig.cache
+/home/awwal/Documents/Practicew3/obj/Debug/net7.0/ref/PracticeW3.dll

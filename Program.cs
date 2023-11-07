@@ -1,4 +1,5 @@
-﻿// string name = "Ollams";
+﻿using dothis;
+// string name = "Ollams";
 // Console.WriteLine("Hello + Ollams");
 
 // string firstName = "Ollams";
@@ -126,18 +127,25 @@
 // }
 
 // MyMethod();
-
+//You can do this but it is not recommended at all
+Main();
 
 static void MyName(string firstName)
 {
-    Console.WriteLine(firstName + "Abdul-Lateef");
+    Console.WriteLine(firstName +' '+ "Abdul-Lateef");
 }
-static void Main(String[] args)
+static void Main()
 {
     MyName("Sheriffdeen");
     MyName("Olamilekan");
     MyName("Ollams");
 }
+
+
+// Second Way i could have done this in this file also but i don't want to modify your code too much
+Console.WriteLine(Environment.NewLine);
+
+DoThis.Main();
 
 
 
