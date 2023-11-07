@@ -9,6 +9,6 @@ class DoThis
     }
     static void MyName(string firstName)
     {
-        Console.WriteLine(firstName + "Abdul-Lateef");
+    Console.WriteLine(firstName +' '+ "Abdul-Lateef");
     }
 }
